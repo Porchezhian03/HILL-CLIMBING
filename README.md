@@ -1,7 +1,6 @@
 <h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
-<h3>Date: 26/10/2026</h3>
-<h3>Name: ASWIN L</h3>
-<h3>Register Number: 212224230028</h3>
+<h3>Name: PORCHEZHIAN E L</h3>
+<h3>Register Number: 212224040235</h3>
 <H3>Aim:</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
 <h2> Theory: </h2>
